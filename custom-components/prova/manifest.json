@@ -4,4 +4,7 @@
     "requirements": [],
     "iot_class": "assumed_state",
     "version": "1.0.0"
+    "codeowners": "Stexjy"
+    "documentation": "pisani"
+    "issue_tracker": "Pisani"
 }
