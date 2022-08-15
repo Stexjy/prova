@@ -1,0 +1,7 @@
+{
+    "domain": "prova",
+    "name": "Prova",
+    "requirements": [],
+    "iot_class": "assumed_state",
+    "version": "1.0.0"
+}
